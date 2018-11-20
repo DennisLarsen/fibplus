@@ -1,6 +1,6 @@
 ﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
     <PropertyGroup>
-        <ProjectGuid>{8D7CFC52-3B57-4E5C-9A5A-E9B7724FB0BA}</ProjectGuid>
+        <ProjectGuid>{8D7CFC52-3B57-4E5C-9B5A-E9B7724FB5AA}</ProjectGuid>
         <MainSource>FIBPlus_XE7.dpk</MainSource>
         <ProjectVersion>16.1</ProjectVersion>
         <FrameworkType>None</FrameworkType>
@@ -249,7 +249,7 @@
                     <Excluded_Packages Name="$(BDSBIN)\dclofficexp210.bpl">Microsoft Office XP Sample Automation Server Wrapper Components</Excluded_Packages>
                 </Excluded_Packages>
                 <Source>
-                    <Source Name="MainSource">FIBPlus_XE5.dpk</Source>
+                    <Source Name="MainSource">FIBPlus_XE7.dpk</Source>
                 </Source>
             </Delphi.Personality>
             <Deployment/>
